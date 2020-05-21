@@ -1,0 +1,52 @@
+.text-space{
+    width: 100%;
+    max-width: 250px;
+}
+.text-space-description {
+    width: 100%;
+    max-width: 300px;
+}
+.content-space {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+}
+.jconfirm-title {
+    font-size: 16px !important;
+}
+.control-label {
+    text-align: left !important;
+}
+.title-sup {
+    color: red;
+}
+.with-btn {
+    width: 110px;
+}
+.permission {
+    height: 350px;
+    overflow-x: hidden;
+}
+.permission-checkbox {
+    position: absolute;
+}
+.permission-name {
+    position: relative;
+    margin-left: 20px;
+    font-weight: unset;
+}
+.btn-search {
+    height: 34px;
+}
+
+.form-control-feedback {
+    right: 0px !important;
+}
+ul.menu_sidebar {
+    list-style: none;
+    font-size: 14px;
+    line-height: 50px;
+    font-weight: bold;
+}
